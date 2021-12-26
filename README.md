@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andrei Semenov
-- 👀 I’m interested in building web applications and creating effective digital solutions using modern technologies (HTML/CSS, JavaScript, React, Node, Express, PostgreSQL, MongoDB).
-- 🌱 I’m currently learning TypeScript, Python, Java, AWS, Cypress
+- 👀 I’m interested in building web applications and creating effective digital solutions using modern technologies (HTML/CSS, JavaScript, React, Node, Express, PostgreSQL, MongoDB, Java).
+- 🌱 I’m currently learning TypeScript, Python, Java
 - 💞️ I’m looking to collaborate on React.js projects
 - 📫 How to reach - e-mail: andsemenov@gmail.com
 
